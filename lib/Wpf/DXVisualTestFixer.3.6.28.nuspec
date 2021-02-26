@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>DXVisualTestFixer</id>
+    <version>3.6.28</version>
+    <title>DX Visual Tests Tool</title>
+    <authors>Zed</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DX Visual Tests Tools. For internal use.</description>
+  </metadata>
+  <files>
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\ccnet.smart.plugin.dll" target="lib\net45\ccnet.smart.plugin.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Crc32.NET.dll" target="lib\net45\Crc32.NET.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Crc32.NET.xml" target="lib\net45\Crc32.NET.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DeltaCompressionDotNet.dll" target="lib\net45\DeltaCompressionDotNet.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DeltaCompressionDotNet.MsDelta.dll" target="lib\net45\DeltaCompressionDotNet.MsDelta.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DeltaCompressionDotNet.PatchApi.dll" target="lib\net45\DeltaCompressionDotNet.PatchApi.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.CodeParser.v20.2.dll" target="lib\net45\DevExpress.CodeParser.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Data.Desktop.v20.2.dll" target="lib\net45\DevExpress.Data.Desktop.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Data.v20.2.dll" target="lib\net45\DevExpress.Data.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Diagram.v20.2.Core.dll" target="lib\net45\DevExpress.Diagram.v20.2.Core.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Dialogs.v20.2.Core.dll" target="lib\net45\DevExpress.Dialogs.v20.2.Core.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Images.v20.2.dll" target="lib\net45\DevExpress.Images.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Mvvm.v20.2.dll" target="lib\net45\DevExpress.Mvvm.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Pdf.v20.2.Core.dll" target="lib\net45\DevExpress.Pdf.v20.2.Core.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Printing.v20.2.Core.dll" target="lib\net45\DevExpress.Printing.v20.2.Core.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.Accordion.v20.2.dll" target="lib\net45\DevExpress.Xpf.Accordion.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.Controls.v20.2.dll" target="lib\net45\DevExpress.Xpf.Controls.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.Core.v20.2.dll" target="lib\net45\DevExpress.Xpf.Core.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.Diagram.v20.2.dll" target="lib\net45\DevExpress.Xpf.Diagram.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.Dialogs.v20.2.dll" target="lib\net45\DevExpress.Xpf.Dialogs.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.Docking.v20.2.dll" target="lib\net45\DevExpress.Xpf.Docking.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.DocumentViewer.v20.2.Core.dll" target="lib\net45\DevExpress.Xpf.DocumentViewer.v20.2.Core.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.Grid.v20.2.Core.dll" target="lib\net45\DevExpress.Xpf.Grid.v20.2.Core.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.Grid.v20.2.dll" target="lib\net45\DevExpress.Xpf.Grid.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.Layout.v20.2.Core.dll" target="lib\net45\DevExpress.Xpf.Layout.v20.2.Core.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.LayoutControl.v20.2.dll" target="lib\net45\DevExpress.Xpf.LayoutControl.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.NavBar.v20.2.dll" target="lib\net45\DevExpress.Xpf.NavBar.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.PropertyGrid.v20.2.dll" target="lib\net45\DevExpress.Xpf.PropertyGrid.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.Ribbon.v20.2.dll" target="lib\net45\DevExpress.Xpf.Ribbon.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DevExpress.Xpf.Themes.Office2019Colorful.v20.2.dll" target="lib\net45\DevExpress.Xpf.Themes.Office2019Colorful.v20.2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DXVisualTestFixer.Ccnet.dll" target="lib\net45\DXVisualTestFixer.Ccnet.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DXVisualTestFixer.Common.dll" target="lib\net45\DXVisualTestFixer.Common.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DXVisualTestFixer.Core.dll" target="lib\net45\DXVisualTestFixer.Core.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DXVisualTestFixer.exe" target="lib\net45\DXVisualTestFixer.exe" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DXVisualTestFixer.exe.config" target="lib\net45\DXVisualTestFixer.exe.config" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DXVisualTestFixer.FarmIntegrator2.dll" target="lib\net45\DXVisualTestFixer.FarmIntegrator2.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DXVisualTestFixer.FarmIntegrator2.dll.config" target="lib\net45\DXVisualTestFixer.FarmIntegrator2.dll.config" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DXVisualTestFixer.Git.dll" target="lib\net45\DXVisualTestFixer.Git.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DXVisualTestFixer.Minio.dll" target="lib\net45\DXVisualTestFixer.Minio.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DXVisualTestFixer.Minio.dll.config" target="lib\net45\DXVisualTestFixer.Minio.dll.config" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DXVisualTestFixer.UI.dll" target="lib\net45\DXVisualTestFixer.UI.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\DXVisualTestsFixer.Cache.dll" target="lib\net45\DXVisualTestsFixer.Cache.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\HtmlAgilityPack.dll" target="lib\net45\HtmlAgilityPack.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\HtmlAgilityPack.xml" target="lib\net45\HtmlAgilityPack.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\ICSharpCode.AvalonEdit.dll" target="lib\net45\ICSharpCode.AvalonEdit.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\ICSharpCode.AvalonEdit.xml" target="lib\net45\ICSharpCode.AvalonEdit.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\ICSharpCode.SharpZipLib.dll" target="lib\net45\ICSharpCode.SharpZipLib.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\JetBrains.Annotations.dll" target="lib\net45\JetBrains.Annotations.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\JetBrains.Annotations.xml" target="lib\net45\JetBrains.Annotations.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\LibGit2Sharp.dll" target="lib\net45\LibGit2Sharp.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\LibGit2Sharp.xml" target="lib\net45\LibGit2Sharp.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Logify.Alert.Core.dll" target="lib\net45\Logify.Alert.Core.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Logify.Alert.Wpf.dll" target="lib\net45\Logify.Alert.Wpf.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\MetaSharp.dll" target="lib\net45\MetaSharp.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Microsoft.Expression.Interactions.dll" target="lib\net45\Microsoft.Expression.Interactions.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Microsoft.Practices.ServiceLocation.dll" target="lib\net45\Microsoft.Practices.ServiceLocation.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Microsoft.Practices.ServiceLocation.xml" target="lib\net45\Microsoft.Practices.ServiceLocation.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Microsoft.Practices.Unity.Configuration.dll" target="lib\net45\Microsoft.Practices.Unity.Configuration.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Microsoft.Practices.Unity.Configuration.xml" target="lib\net45\Microsoft.Practices.Unity.Configuration.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Microsoft.Practices.Unity.dll" target="lib\net45\Microsoft.Practices.Unity.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Microsoft.Practices.Unity.RegistrationByConvention.dll" target="lib\net45\Microsoft.Practices.Unity.RegistrationByConvention.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Microsoft.Practices.Unity.RegistrationByConvention.xml" target="lib\net45\Microsoft.Practices.Unity.RegistrationByConvention.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Microsoft.Practices.Unity.xml" target="lib\net45\Microsoft.Practices.Unity.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Minio.dll" target="lib\net45\Minio.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Minio.xml" target="lib\net45\Minio.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Mono.Cecil.dll" target="lib\net45\Mono.Cecil.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Mono.Cecil.Mdb.dll" target="lib\net45\Mono.Cecil.Mdb.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Mono.Cecil.Pdb.dll" target="lib\net45\Mono.Cecil.Pdb.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Mono.Cecil.Rocks.dll" target="lib\net45\Mono.Cecil.Rocks.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\NuGet.Squirrel.dll" target="lib\net45\NuGet.Squirrel.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\PixelFormatsConverter.dll" target="lib\net45\PixelFormatsConverter.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\PixelFormatsConverter.xml" target="lib\net45\PixelFormatsConverter.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Polenter.SharpSerializer.dll" target="lib\net45\Polenter.SharpSerializer.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Polenter.SharpSerializer.xml" target="lib\net45\Polenter.SharpSerializer.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Prism.dll" target="lib\net45\Prism.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Prism.Unity.Wpf.dll" target="lib\net45\Prism.Unity.Wpf.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Prism.Unity.Wpf.xml" target="lib\net45\Prism.Unity.Wpf.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Prism.Wpf.dll" target="lib\net45\Prism.Wpf.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Prism.Wpf.xml" target="lib\net45\Prism.Wpf.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Prism.xml" target="lib\net45\Prism.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\RestSharp.dll" target="lib\net45\RestSharp.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\RestSharp.xml" target="lib\net45\RestSharp.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\SharpCompress.dll" target="lib\net45\SharpCompress.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Splat.dll" target="lib\net45\Splat.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\Squirrel.dll" target="lib\net45\Squirrel.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\System.Reactive.dll" target="lib\net45\System.Reactive.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\System.Reactive.Linq.dll" target="lib\net45\System.Reactive.Linq.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\System.Reactive.Linq.xml" target="lib\net45\System.Reactive.Linq.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\System.Reactive.xml" target="lib\net45\System.Reactive.xml" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\System.Windows.Interactivity.dll" target="lib\net45\System.Windows.Interactivity.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\ThoughtWorks.CruiseControl.Remote.dll" target="lib\net45\ThoughtWorks.CruiseControl.Remote.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\netcoreapp3.0\DXVisualTestFixer.Common.NetCore.dll" target="lib\net45\netcoreapp3.0\DXVisualTestFixer.Common.NetCore.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\netcoreapp3.0\DXVisualTestFixer.Core.NetCore.dll" target="lib\net45\netcoreapp3.0\DXVisualTestFixer.Core.NetCore.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\netcoreapp3.0\DXVisualTestFixer.FarmIntegrator2.NetCore.dll" target="lib\net45\netcoreapp3.0\DXVisualTestFixer.FarmIntegrator2.NetCore.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\netcoreapp3.0\DXVisualTestFixer.FarmIntegrator2.NetCore.dll.config" target="lib\net45\netcoreapp3.0\DXVisualTestFixer.FarmIntegrator2.NetCore.dll.config" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\netcoreapp3.0\git2-572e4d8.dll" target="lib\net45\netcoreapp3.0\git2-572e4d8.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\netcoreapp3.0\git2-7ce88e6.dll" target="lib\net45\netcoreapp3.0\git2-7ce88e6.dll" />
+    <file src="C:\Work\DXVisualTestFixer\bin\Build\netcoreapp3.0\ThoughtWorks.CruiseControl.Remote.dll" target="lib\net45\netcoreapp3.0\ThoughtWorks.CruiseControl.Remote.dll" />
+  </files>
+</package>
